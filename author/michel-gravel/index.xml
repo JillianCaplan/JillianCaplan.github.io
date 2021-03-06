@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michel Gravel | Jillian Caplan</title>
+    <link>/author/michel-gravel/</link>
+      <atom:link href="/author/michel-gravel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michel Gravel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_huc5ddbc9f1a0fc66ccf7e7751fffdaeef_427515_512x512_fill_lanczos_center_2.png</url>
+      <title>Michel Gravel</title>
+      <link>/author/michel-gravel/</link>
+    </image>
+    
+    <item>
+      <title>Differential role of planar cell polarity gene Vangl2 in embryonic and adult mammalian kidneys</title>
+      <link>/publication/vangl2/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/vangl2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

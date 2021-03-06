@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Shizgal | Jillian Caplan</title>
+    <link>/author/peter-shizgal/</link>
+      <atom:link href="/author/peter-shizgal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Shizgal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_huc5ddbc9f1a0fc66ccf7e7751fffdaeef_427515_512x512_fill_lanczos_center_2.png</url>
+      <title>Peter Shizgal</title>
+      <link>/author/peter-shizgal/</link>
+    </image>
+    
+    <item>
+      <title>How is reward intensity represented in the rat brain? Evidence for a rate code</title>
+      <link>/publication/reward-intensity/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/reward-intensity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

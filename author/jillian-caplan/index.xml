@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jillian Caplan</title>
+    <link>/author/jillian-caplan/</link>
+      <atom:link href="/author/jillian-caplan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jillian Caplan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/jillian-caplan/avatar_hu5bdd2af182b04b7908b540d19fb9c9b2_1035711_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jillian Caplan</title>
+      <link>/author/jillian-caplan/</link>
+    </image>
+    
+    <item>
+      <title>How is reward intensity represented in the rat brain? Evidence for a rate code</title>
+      <link>/publication/reward-intensity/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/reward-intensity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential role of planar cell polarity gene Vangl2 in embryonic and adult mammalian kidneys</title>
+      <link>/publication/vangl2/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/vangl2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

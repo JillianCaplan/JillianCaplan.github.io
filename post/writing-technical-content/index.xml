@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jillian Caplan</title>
+    <link>/post/writing-technical-content/</link>
+      <atom:link href="/post/writing-technical-content/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jillian Caplan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/post/writing-technical-content/featured.jpg</url>
+      <title>Jillian Caplan</title>
+      <link>/post/writing-technical-content/</link>
+    </image>
+    
+  </channel>
+</rss>
